@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="botiga_moderna.xsl"	type="text/xsl"?>
+<productos>
+  <producto>
+	<imagen src="https://mm3.valecuatro.com/29658-large_default/blusa-m-lino.jpg" alt="Imagen Producto"/>
+    <codigo>001</codigo>
+    <nombre>Camisa de cuadros</nombre>
+    <descripcion>Camisa de manga larga con cuadros en tonos rojos y azules.</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>8</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://raw.githubusercontent.com/Majoissa/botiga-moderna/main/producto2.jpg" alt="Imagen Producto" />
+    <codigo>002</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>10</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://i.pinimg.com/736x/93/31/2d/93312d59e65ea8e05afc776c585d2980.jpg" alt="Imagen Producto"/>
+    <codigo>003</codigo>
+    <nombre>Zapatillas deportivas</nombre>
+    <descripcion>Zapatillas deportivas de tela con suela de goma antideslizante.</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Calzado</tipo>
+	<cantidad>5</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://raw.githubusercontent.com/Majoissa/botiga-moderna/main/producto4.jpg" alt="Imagen Producto"/>
+    <codigo>004</codigo>
+    <nombre>Camisa de cuadros</nombre>
+    <descripcion>Camisa de manga larga con cuadros en tonos rojos y azules.</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>12</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202208/17/00112162205574____3__516x640.jpg" alt="Imagen Producto" />
+    <codigo>005</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>20</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://www.marlosonline.es/85110-superlarge_default/zapatillas-deportivas-mujer-victoria-260115.jpg" alt="Imagen Producto"/>
+    <codigo>006</codigo>
+    <nombre>Zapatillas deportivas</nombre>
+    <descripcion>Zapatillas deportivas de tela con suela de goma antideslizante.</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Calzado</tipo>
+	<cantidad>10</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://raw.githubusercontent.com/Majoissa/botiga-moderna/main/producto7.jpg" alt="Imagen Producto"/>
+    <codigo>007</codigo>
+    <nombre>Camisa de cuadros</nombre>
+    <descripcion>Camisa de manga larga con cuadros en tonos rojos y azules.</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>5</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://images-eu-prod.cms.commerce.dynamics.com/cms/api/dhxlqlxprw/imageFileData/search?fileName=/Products%2F1416481_000_001.png" alt="Imagen Producto" />
+    <codigo>008</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>25</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://www.zapateos.com/17211-large_default/zapatillas-mujer-casual-comprar.jpg" alt="Imagen Producto"/>
+    <codigo>009</codigo>
+    <nombre>Zapatillas deportivas</nombre>
+    <descripcion>Zapatillas deportivas de tela con suela de goma antideslizante.</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Calzado</tipo>
+	<cantidad>10</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://cdn.shopify.com/s/files/1/0250/9629/0364/products/2214810_M500_351.1_600x.jpg?v=1634223692" alt="Imagen Producto"/>
+    <codigo>010</codigo>
+    <nombre>Camisa de cuadros</nombre>
+    <descripcion>Camisa de manga larga con cuadros en tonos rojos y azules.</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>9</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://img.ltwebstatic.com/images2_pi/2018/10/12/15393229592996904873.jpg" alt="Imagen Producto"/>
+    <codigo>011</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>12</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://calzadosmartin.com/wp-content/uploads/2022/02/mm3.jpg" alt="Imagen Producto" />
+    <codigo>012</codigo>
+    <nombre>Zapatillas deportivas</nombre>
+    <descripcion>Zapatillas deportivas de tela con suela de goma antideslizante.</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Calzado</tipo>
+	<cantidad>15</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://mm3.valecuatro.com/29658-large_default/blusa-m-lino.jpg" alt="Imagen Producto"/>
+    <codigo>013</codigo>
+    <nombre>Camisa de cuadros</nombre>
+    <descripcion>Camisa de manga larga con cuadros en tonos rojos y azules.</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>8</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://raw.githubusercontent.com/Majoissa/botiga-moderna/main/producto2.jpg" alt="Imagen Producto" />
+    <codigo>014</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>10</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://i.pinimg.com/736x/93/31/2d/93312d59e65ea8e05afc776c585d2980.jpg" alt="Imagen Producto"/>
+    <codigo>015</codigo>
+    <nombre>Zapatillas deportivas</nombre>
+    <descripcion>Zapatillas deportivas de tela con suela de goma antideslizante.</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Calzado</tipo>
+	<cantidad>5</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://raw.githubusercontent.com/Majoissa/botiga-moderna/main/producto4.jpg" alt="Imagen Producto"/>
+    <codigo>016</codigo>
+    <nombre>Camisa de cuadros</nombre>
+    <descripcion>Camisa de manga larga con cuadros en tonos rojos y azules.</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>12</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://cdn.grupoelcorteingles.es/SGFM/dctm/MEDIA03/202208/17/00112162205574____3__516x640.jpg" alt="Imagen Producto" />
+    <codigo>017</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>20</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://www.marlosonline.es/85110-superlarge_default/zapatillas-deportivas-mujer-victoria-260115.jpg" alt="Imagen Producto"/>
+    <codigo>018</codigo>
+    <nombre>Zapatillas deportivas</nombre>
+    <descripcion>Zapatillas deportivas de tela con suela de goma antideslizante.</descripcion>
+    <precio>80.00</precio>
+    <iva>21%</iva>
+    <tipo>Calzado</tipo>
+	<cantidad>10</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://raw.githubusercontent.com/Majoissa/botiga-moderna/main/producto7.jpg" alt="Imagen Producto"/>
+    <codigo>019</codigo>
+    <nombre>Camisa de cuadros</nombre>
+    <descripcion>Camisa de manga larga con cuadros en tonos rojos y azules.</descripcion>
+    <precio>50.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>5</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://images-eu-prod.cms.commerce.dynamics.com/cms/api/dhxlqlxprw/imageFileData/search?fileName=/Products%2F1416481_000_001.png" alt="Imagen Producto" />
+    <codigo>020</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>25</cantidad>
+  </producto>
+  <producto>
+	<imagen src="https://images-eu-prod.cms.commerce.dynamics.com/cms/api/dhxlqlxprw/imageFileData/search?fileName=/Products%2F1416481_000_001.png" alt="Imagen Producto" />
+    <codigo>021</codigo>
+    <nombre>Pantalon de mezclilla</nombre>
+    <descripcion>Pantalón de mezclilla con corte recto y botones de metal.</descripcion>
+    <precio>70.00</precio>
+    <iva>21%</iva>
+    <tipo>Ropa</tipo>
+	<cantidad>25</cantidad>
+  </producto>
+</productos>
